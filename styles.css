@@ -160,10 +160,10 @@ body {
   transform: translate(-50%, -50%);
   width: 60%; /* Adjust width as needed */
   height: 70%; /* Adjust height as needed */
-  background-color: rgba(255, 255, 255, 0); /* Transparent background */
+  background-color: rgba(0, 0, 0, 0.5); /* Transparent background */
   border-radius: 20px; /* Rounded corners */
   border: 2px solid rgba(255, 255, 255, 0); /* Dark border with transparency */
-  box-shadow: 0 0 10px rgba(100, 100, 100, 0.5); /* Slightly blurred shadow */
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7); /* Slightly blurred shadow */
   backdrop-filter: blur(5px); /* Apply blur effect */
   z-index: 999; /* Above other content */
   display: none; /* Initially hidden */
